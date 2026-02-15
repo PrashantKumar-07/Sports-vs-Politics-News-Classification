@@ -1,16 +1,16 @@
 # Sports vs Politics News Classification
 
 ## Overview
-This project focuses on classifying news articles into **Sports** and **Politics** categories using classical machine learning techniques. The objective is to analyze how traditional text classification models perform on real world news data when combined with simple and interpretable feature representations.
+This project focuses on classifying news articles into **Sports** and **Politics** categories using classical machine learning techniques. The objective is to analyze how traditional text classification models perform on real-world news data when combined with simple and interpretable feature representations.
 
-The work is part of the course **CSL 7640: Natural Language Understanding**.
+This work is part of the course **CSL 7640: Natural Language Understanding**.
 
 ---
 
 ## Dataset
 The dataset used in this project is the **BBC News Archive**, which is publicly available on Kaggle.
 
-Dataset link:  
+**Dataset link:**  
 https://www.kaggle.com/datasets/hgultekin/bbcnewsarchive
 
 The original dataset contains five categories:
@@ -60,6 +60,16 @@ The models were evaluated using the following metrics:
 - F1 Score  
 
 Among all models, **Linear Support Vector Machine** achieved the best overall performance.
+
+---
+
+## Requirements
+This project was developed and tested using:
+
+- Python **3.11.5**
+- pandas
+- numpy
+- scikit-learn
 
 ---
 
