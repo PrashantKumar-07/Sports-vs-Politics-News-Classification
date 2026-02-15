@@ -79,4 +79,4 @@ This project was developed and tested using:
 3. Run the experiment using:
 
 ```bash
-python run_experiment.py
+python M25CSE023_prob4.py run
